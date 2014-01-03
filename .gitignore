@@ -2,9 +2,6 @@
 [Bb]in/
 [lL]ogs/
 merged/
-fubu-packages/
-fubu-content/
-compass-images/
 *.ReSharper
 _ReSharper.*
 *.csproj.user
@@ -26,15 +23,13 @@ _ReSharper.*
 tempIIS.config
 *.docstates
 *.bin
-cache
+*.cache
 gems
 specifications
 Deploy
 Publish
 packages
 Build
-!vendor/cache
-vendor
 *.user
 *.DotSettings
 *.DotSettings.*
