@@ -1,6 +1,6 @@
 # CaliburnExamples
 
-*This repo contains **Introductory-Level example projects** that use the **[Caliburn.Micro](http://caliburnmicro.codeplex.com/)** open source framework.*
+*This repo contains* ***Introductory-Level example projects*** *that use the* ***[Caliburn.Micro](http://caliburnmicro.codeplex.com/)*** *open source framework.*
 
 *This README tries to explain what the Caliburn.Micro framework is, and why you should use it.*
 
